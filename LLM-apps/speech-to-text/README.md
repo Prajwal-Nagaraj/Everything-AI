@@ -1,0 +1,1 @@
+This folder contains the Notebook used to test openai's Whisper, a Speech to Text model used for transcription and Whisper-Distil, a Distilled version of the parent model used for the same use cases but with a significant performance increase.
