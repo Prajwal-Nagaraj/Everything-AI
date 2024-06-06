@@ -4,4 +4,6 @@ question and answer to the question based on the popular game show 'Jeopardy'. T
 
 'Let's Build GPT': https://youtu.be/kCc8FmEb1nY?si=5a2Lroae5QRs_-bl
 
+Github repo used in the video: https://github.com/karpathy/ng-video-lecture
+
 Training Data Link: https://drive.google.com/file/d/0BwT5wj_P7BKXb2hfM3d2RHU1ckE/view?resourcekey=0-1abK4cJq-mqxFoSg86ieIg
