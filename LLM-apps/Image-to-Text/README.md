@@ -1,1 +1,0 @@
-This folder contains the notebook required to host the Idefics2-8B model which is an Open Souce Large Multimodal Model Trained for Visual Question Answering(VQA) locally on colab and the test images used to test the model's VWA abilities.
