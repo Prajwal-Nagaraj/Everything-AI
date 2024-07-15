@@ -46,7 +46,7 @@ The aya-23 model supports translation into the following 23 languages:
 We will translate the provided English text into each of the 23 supported languages using the aya-23 8B model. The results will be documented and analyzed to assess the model's translation quality.
 
 ## Repository Structure
-translations.txt/: Contains the translated texts in 23 languages.   
+translations.txt: Contains the translated texts in 23 languages.   
 Multi_Lingual_SLM.ipynb: Contains the notebook used for translation
 
 
