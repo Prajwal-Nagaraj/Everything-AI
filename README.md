@@ -2,5 +2,5 @@
 
 ## About me
 
-I'm a Machine Learning engineer who is passionate about the Gen-AI and this repo consists of all my work Including Exploring, Building and Training wiht Open and Closed Source Models! 
-I will try to keep up with the extremely fast moving Gen-AI space and build projects using Gen-AI which I find interesting.
+I'm a Machine Learning Engineer with a passion for Generative AI (Gen-AI). This repository showcases all my work, including exploring, building, and training with both open and closed-source models. I strive to keep up with the rapidly evolving Gen-AI landscape and build projects that I find interesting and impactful.
+
