@@ -1,1 +1,1 @@
-In this folder I will be prompting an open source model to create gifs.
+In this folder I will be showcasing an open source video model specifically trained to produce GIFs from the text.
