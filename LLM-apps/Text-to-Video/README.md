@@ -1,1 +1,1 @@
-In this folder I will be showcasing an open source video model specifically trained to produce GIFs from the text.
+In this notebook, I will be exploring an open source model that was recently launched on Huggingface and is specifically built for video generation via prompting. More information about this models can be found [here]([URL](https://github.com/huggingface/diffusers/releases/tag/v0.30.0))
