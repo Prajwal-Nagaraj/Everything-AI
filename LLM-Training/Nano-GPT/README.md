@@ -1,3 +1,5 @@
+## Nano GPT
+
 In this subfolder, I will include the notebook which I used to build GPT-2(124M Parameter) from scratch by following Andrej Karpathy's video and the GPT-2/GPT-3 research paper. 
 I will also be training this model on custom data from the game show jeopardy and after training this model will continously produce 'Questions', 'Value' and 'Answers' to the questions continously.
 This model will be a base model and to get this model to behave like the popular chatGPT I will need to train the model again using methods like RLHF(Reinforcement learning with human Feedback) which is beyond my capabilities.
